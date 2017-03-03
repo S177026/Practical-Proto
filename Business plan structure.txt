@@ -1,5 +1,5 @@
-BUsiness PLan
-- Team Size
+Business PLan
+-Team Size
 -Development Time
 -Platform of release
 -Studio name
@@ -7,9 +7,11 @@ BUsiness PLan
 -Licensing
 -Workers Income
 -When will you strat making profit
--Funding to mak eth egame
+-Funding to mak the egame
 -Team Skill, programmer, artists,designers = cost of equipment
 
 Marketing
 -Social Media
 -Website/ Youtubers
+-Methods of marketing
+-Target audience 
