@@ -1,8 +1,0 @@
-Make riser and step the same smoothing group
-Use cut tool with snap tool on
-Move edge of riser to break up the 
-Use pin tool on steps corner
-Stitch to average on the edge that meets the riser 
-Connect Sides, render UV template
-Use paint tool along edge but not exactly
-Break the sharp edges by changing colour, dark at the top of the riser and lighter with blur on the the step

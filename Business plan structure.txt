@@ -1,4 +1,4 @@
-Business PLan
+Business Plan
 -Team Size
 -Development Time
 -Platform of release
